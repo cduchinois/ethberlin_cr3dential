@@ -1,0 +1,10 @@
+## See if stuff from the root .gitignore can be moved here
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+
