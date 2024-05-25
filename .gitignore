@@ -3,18 +3,18 @@
 # vercel
 .vercel
 
-# DS_Store
+# MacOS
 .DS_Store
 
-# yarn v3
-.pnp.*
-.pnp.js
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/sdks
-!.yarn/versions
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Additional yarn stuff, more below in generated entries
+.yarn/
+.yarnrc.yml
 
 ## End of manual entries, generated entries below
 
